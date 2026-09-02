@@ -174,19 +174,6 @@ Full Stack Development
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tejamurthycng-arch&show_icons=true&theme=default" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejamurthycng-arch&layout=compact&theme=default" alt="Top Languages" height="165" />
-
-</div>
-
-*Stats are generated live by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — no manual figures below are implied.*
-
----
-
 ## Development Philosophy
 
 ```text
