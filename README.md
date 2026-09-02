@@ -45,8 +45,6 @@ const tejaMurthy = {
 
 Website created for the interview of a club in college — showcases a strong hold on the basics of HTML, CSS, and JS.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tejamurthycng-arch&repo=OSCode_Website&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-
 | Layer      | Technology       |
 |------------|------------------|
 | Structure  | HTML             |
@@ -60,8 +58,6 @@ Website created for the interview of a club in college — showcases a strong ho
 ### 📌 HTML-CSS-PROJECTS
 
 A repo consisting of Amazon, YouTube, and Instagram clones made with only HTML and CSS — built to improve basic HTML/CSS knowledge.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tejamurthycng-arch&repo=HTML-CSS-PROJECTS&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
 | Layer      | Technology       |
 |------------|------------------|
@@ -93,22 +89,6 @@ A repo consisting of Amazon, YouTube, and Instagram clones made with only HTML a
 
 <img src="https://streak-stats.demolab.com?user=tejamurthycng-arch&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
 
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tejamurthycng-arch&no-frame=true&no-bg=true&theme=nord" />
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejamurthycng-arch&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%" />
 </div>
 
 <br/>
