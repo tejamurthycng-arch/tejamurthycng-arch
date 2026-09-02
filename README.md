@@ -27,7 +27,7 @@
 
 ## 👋 Who I Am
 
-```ts
+
 const tejamurthy = {
   title: "Computer Science Engineering Student",
   stack: [
@@ -48,7 +48,7 @@ const tejamurthy = {
   status: "Entering 3rd semester and actively building my development skills",
   openTo: ["Work", "Internships"]
 };
-```
+
 
 I'm a Computer Science Engineering student focused on learning through hands-on development. I enjoy turning ideas into working interfaces, experimenting with new technologies, and improving my skills by building projects.
 
