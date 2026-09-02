@@ -27,39 +27,41 @@
 
 ## 👋 Who I Am
 
-```javascript
-const tejamurthy = {
-  title: "Computer Science Engineering Student",
+<table>
+<tr>
+<td width="50%">
 
-  stack: [
-    "C",
-    "Python",
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Tailwind CSS",
-    "React",
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Cursor"
-  ],
+### 🎓 Student Developer
 
-  launchedProjects: 2,
+I'm a Computer Science Engineering student currently entering my **3rd semester**, focused on building real projects and improving my development skills.
 
-  certifications: [],
+</td>
 
-  status: "Entering 3rd semester and actively building my development skills",
+<td width="50%">
 
-  openTo: [
-    "Work",
-    "Internships"
-  ]
-};
-```
+### 🚀 Current Focus
 
+- Web Development
+- React
+- AI & Automation
+- Hackathons
+- Full-Stack Development
+- Open Source
 
-I'm a Computer Science Engineering student focused on learning through hands-on development. I enjoy turning ideas into working interfaces, experimenting with new technologies, and improving my skills by building projects.
+</td>
+</tr>
+</table>
+
+### 💻 My Developer Profile
+
+| | |
+|---|---|
+| **Role** | Computer Science Engineering Student |
+| **Stack** | C • Python • HTML • CSS • JavaScript • Tailwind CSS • React |
+| **Projects** | 2 Featured Projects |
+| **Status** | Entering 3rd Semester |
+| **Open To** | Work • Internships |
+| **Currently Exploring** | AI • Automation • Full-Stack Development |
 
 I'm currently growing toward full-stack development while exploring **AI, automation, hackathons, and open source**.
 
