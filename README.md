@@ -1,225 +1,477 @@
-<div align="center">
+# Hi 👋, I'm Tejamurthy
 
-# Hi 👋, I'm Tejamurthy M
+### `Developer • Builder • Learner • Problem Solver`
 
-### `Student • Frontend Builder • Aspiring Software Engineer`
+> Learning by building, turning ideas into projects, and continuously exploring what technology can create.
 
-> Learning deeply. Building boldly.
-
-I build web applications, experiment with new tools, and turn what I learn into real projects — one clone, one club site, one commit at a time.
-
-<p>
-  <a href="#about-me">About</a> •
-  <a href="#tech-stack">Skills</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#developer-roadmap">Journey</a> •
-  <a href="#github-analytics">GitHub</a> •
-  <a href="#goals">Goals</a> •
-  <a href="#connect-with-me">Contact</a>
-</p>
-
-</div>
+🎓 CSE Student at BMSCE  
+💻 Web Developer  
+🌱 Currently growing through React & modern web development  
+🚀 Building projects and exploring real-world problems  
+🏆 Interested in Hackathons  
+🤖 Exploring AI & Automation  
 
 ---
 
-### Quick Profile
+## 🧭 Navigation
 
-🎓 CSE Student, 3rd Semester &nbsp;|&nbsp; 💻 Beginner Developer &nbsp;|&nbsp; 🌱 Learning Backend &nbsp;|&nbsp; 🚀 Building Projects &nbsp;|&nbsp; 🌍 Bangalore, India
+**[About](#-about-me) • [Skills](#-tech-stack) • [Projects](#-featured-projects) • [Journey](#-developer-journey) • [Learning](#-currently-learning) • [Goals](#-2026-goals) • [Contact](#-connect-with-me)**
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an aspiring software engineer currently pursuing my B.E. in Computer Science at BMSCE, Bangalore. I'm driven by curiosity and a desire to solve real-world problems through technology.
+I'm **Tejamurthy**, a Computer Science Engineering student at **BMSCE**, currently entering my 3rd semester.
 
-I'm early in my journey — right now that means strengthening my frontend fundamentals (HTML, CSS, JavaScript, React) through hands-on clone projects, while starting to explore the backend with Node.js and Express.js. I'm focused on building real skills, exploring new domains, and connecting with like-minded people.
+I've been learning development by actually building things rather than only studying concepts. My journey has taken me from **C and Python fundamentals** to **HTML, CSS, JavaScript, Tailwind CSS, and React**.
 
-Open to internships and collaborations.
+I've already built projects such as YouTube, Amazon, and Instagram-inspired clones along with games like Tic Tac Toe and Rock Paper Scissors.
+
+I'm particularly interested in:
+
+- 🌐 Web Development
+- ⚛️ React & Frontend Engineering
+- 🤖 Artificial Intelligence
+- ⚡ Automation
+- 🏆 Hackathons
+- 🌱 Learning through projects
+- 🌍 Open Source
+
+My long-term goal is to become a **strong software engineer** capable of turning real-world problems into useful, well-built products.
 
 ---
 
 ## 🔭 Currently Building
 
-```text
-🌐 OSCode Website
-A club interview website built with HTML, CSS, and JavaScript —
-built to strengthen my JS fundamentals in a real, purposeful project.
-```
+I'm currently focusing on improving my development skills through projects and exploring ideas around:
 
-```text
-🛒 Clone Projects (Amazon & YouTube)
-UI clones built with HTML and CSS to sharpen layout, styling,
-and responsive design fundamentals.
-```
+- 🌐 Modern web applications
+- 🤖 AI-powered applications
+- ⚡ Automation
+- 🚜 Real-world problem solving
+- 🏆 Hackathon projects
+
+> **Current focus:** Learn the fundamentals deeply → build projects → debug → improve → repeat.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
+### 💻 Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend** *(currently learning)*
+### 🎨 Frontend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Tools**
+### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Skill Journey
+## 🧩 Developer Journey
 
-```text
-HTML
-  ↓
-CSS
-  ↓
+
+C
+ ↓
+Python
+ ↓
+HTML + CSS
+ ↓
 JavaScript
-  ↓
+ ↓
+Tailwind CSS
+ ↓
 React
-  ↓
-Node.js  (in progress)
-  ↓
-Express.js  (in progress)
-  ↓
+ ↓
+Backend Development
+ ↓
 Databases
-  ↓
-Full Stack Development
-```
+ ↓
+Full-Stack Development
+ ↓
+AI Integration
+ ↓
+Production Engineering
+````
+
+The goal isn't just to collect technologies.
+
+It's to understand them well enough to **build useful things with them**.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 HTML-CSS-PROJECTS
+### 🎬 YouTube Clone
 
-> Amazon and YouTube UI clones, built to strengthen HTML & CSS fundamentals.
+> A frontend project inspired by the YouTube interface, built to practice modern web development and UI implementation.
 
-**Tech:** HTML • CSS
+**Tech:** HTML • CSS • JavaScript • Tailwind CSS
 
-**Features**
-* Recreates real-world e-commerce and video-platform layouts
-* Focus on structure, styling, and responsive fundamentals
+**Focus:**
 
-📂 [Source Code](https://github.com/tejamurthycng-arch/HTML-CSS-PROJECTS)
+* UI recreation
+* Responsive layouts
+* Frontend development
+* JavaScript interactions
+
+🔗 **Source Code:** `[ADD GITHUB LINK]`
+
+🌐 **Live Demo:** `[ADD LIVE DEMO]`
 
 ---
 
-### 🌐 OSCode_Website
+### 🛒 Amazon Clone
 
-> A website built for a college club's interview process — used to strengthen HTML, CSS, and JavaScript skills.
+> A frontend project inspired by Amazon, created to practice building a larger e-commerce-style interface.
+
+**Tech:** HTML • CSS • JavaScript • Tailwind CSS
+
+**Focus:**
+
+* E-commerce UI
+* Responsive design
+* Frontend logic
+* Component-style thinking
+
+🔗 **Source Code:** `[ADD GITHUB LINK]`
+
+🌐 **Live Demo:** `[ADD LIVE DEMO]`
+
+---
+
+### 📸 Instagram Clone
+
+> A frontend project inspired by Instagram, built to strengthen UI development and JavaScript skills.
+
+**Tech:** HTML • CSS • JavaScript • Tailwind CSS
+
+**Focus:**
+
+* Social-media style UI
+* Responsive design
+* Frontend interactions
+* Layout implementation
+
+🔗 **Source Code:** `[ADD GITHUB LINK]`
+
+🌐 **Live Demo:** `[ADD LIVE DEMO]`
+
+---
+
+### ❌⭕ Tic Tac Toe
+
+> A browser-based Tic Tac Toe game created while practicing JavaScript logic and DOM manipulation.
 
 **Tech:** HTML • CSS • JavaScript
 
-**Features**
-* Built for a real use case (club interview process) rather than a tutorial exercise
-* Focus on applying JavaScript fundamentals in a practical project
+**Focus:**
 
-📂 [Source Code](https://github.com/tejamurthycng-arch/OSCode_Website)
+* Game logic
+* DOM manipulation
+* Event handling
+* User interaction
+
+🔗 **Source Code:** `[ADD GITHUB LINK]`
+
+🌐 **Live Demo:** `[ADD LIVE DEMO]`
 
 ---
 
-## 🧠 Currently Learning
+### 🪨 📄 ✂️ Rock Paper Scissors
 
-```text
-JavaScript (strengthening)
+> A simple interactive Rock Paper Scissors game built to strengthen JavaScript fundamentals.
+
+**Tech:** HTML • CSS • JavaScript
+
+**Focus:**
+
+* Conditional logic
+* Event handling
+* Randomization
+* Interactive UI
+
+🔗 **Source Code:** `[ADD GITHUB LINK]`
+
+🌐 **Live Demo:** `[ADD LIVE DEMO]`
+
+---
+
+## 📊 Project Impact
+
+| Project             | What It Demonstrates                     | Tech                       |
+| ------------------- | ---------------------------------------- | -------------------------- |
+| YouTube Clone       | UI implementation & frontend development | HTML • CSS • JS • Tailwind |
+| Amazon Clone        | E-commerce-style frontend                | HTML • CSS • JS • Tailwind |
+| Instagram Clone     | Responsive social UI                     | HTML • CSS • JS • Tailwind |
+| Tic Tac Toe         | Game logic & DOM manipulation            | HTML • CSS • JS            |
+| Rock Paper Scissors | JavaScript fundamentals                  | HTML • CSS • JS            |
+
+> These projects represent my learning journey — from understanding fundamentals to building increasingly interactive applications.
+
+---
+
+## 🌱 Currently Learning
+
+
+JavaScript
+   ↓
+Advanced React
+   ↓
+Backend Development
    ↓
 Node.js
    ↓
-Express.js
+Express
    ↓
 Databases
    ↓
-Full Stack Development
-```
+Full-Stack Development
+   ↓
+AI Integration
+   ↓
+Production-Ready Applications
+
 
 ---
 
-## Developer Roadmap
+## 🗺️ Developer Roadmap
 
-**✅ Completed**
+### ✅ Completed
+
+* C
+* Python
 * HTML
 * CSS
 * JavaScript
+* Tailwind CSS
 * React
+* Multiple frontend projects
 
-**🔄 Currently Learning**
+### 🔄 Currently Improving
+
+* Advanced JavaScript
+* React
+* Building larger applications
+* Problem solving
+* Development workflow
+
+### 🎯 Next
+
 * Node.js
-* Express.js
+* Express
+* Databases
+* Full-Stack Development
+* APIs
+* Authentication
 
-**🎯 Next**
-* Databases (SQL / NoSQL)
-* Full Stack project development
+### 🚀 Long-Term
 
-**🚀 Long-Term**
-* Full Stack Development
-* Open Source Contributions
-* Internship Experience
-* Production-quality Engineering
+* AI-powered applications
+* System Design
+* Open Source
+* Production Engineering
+* Strong Software Engineering fundamentals
 
 ---
 
 ## 🏆 Hackathons & Achievements
 
-> Currently building projects and preparing for my next hackathon.
+### 🏆 Hackathons
+
+I'm interested in participating in hackathons and using them as opportunities to:
+
+* Solve real-world problems
+* Build under constraints
+* Work with new technologies
+* Collaborate with other developers
+* Turn ideas into working products
+
+### 🎓 Academic Milestone
+
+**First Semester SGPA: 9.25**
+
+> Still early in the journey — more milestones to come.
 
 ---
 
-## Development Philosophy
+## 📈 GitHub Analytics
 
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
+<!-- Replace YOUR_USERNAME with your GitHub username -->
 
-I'd rather build something small and real than read about something big and theoretical.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170" />
+</p>
+
+> Replace `YOUR_USERNAME` after adding your GitHub username.
 
 ---
 
-## Goals
+## 🐍 Contribution Graph
 
-**🎯 2026 Goals**
 
-* Get comfortable with Node.js and Express.js
-* Build a full-stack project end to end
-* Strengthen JavaScript and React fundamentals
-* Contribute to open source
-* Land an internship
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🧠 Development Philosophy
+
+
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Ship
+  ↓
+Repeat
+
+
+## 🎯 2026 Goals
+
+* [ ] Build production-quality web applications
+* [ ] Become significantly stronger in JavaScript
+* [ ] Deepen my React knowledge
+* [ ] Learn backend development
+* [ ] Learn databases
+* [ ] Build full-stack applications
+* [ ] Explore AI-powered applications
+* [ ] Participate in hackathons
+* [ ] Explore open source
+* [ ] Prepare for software engineering internships
 
 ---
 
 ## 💡 What I Like Building
 
-🌐 Web Applications &nbsp;|&nbsp; 🎨 Interactive UI &nbsp;|&nbsp; 🛠️ Practical, real-use projects over tutorials
+* 🌐 Web Applications
+* ⚛️ Interactive Frontend Experiences
+* 🤖 AI-powered Tools
+* ⚡ Automation
+* 📊 Dashboards
+* 🚜 Real-world Problem-Solving Applications
+* 🎨 Clean & Interactive UIs
+* 🛠️ Developer-focused Tools
+
+---
+
+## 📚 How I Learn
+
+I learn best when theory turns into something I can actually build.
+
+My approach:
+
+* **Understand the fundamentals**
+* **Build instead of only watching tutorials**
+* **Break things**
+* **Read errors**
+* **Debug patiently**
+* **Improve existing projects**
+* **Keep experimenting**
+
+> **Code becomes knowledge when you build with it.**
 
 ---
 
 ## 🤝 Open Source
 
-Interested in open-source contributions, developer communities, and collaborating with other builders — actively looking to get more involved as my skills grow.
+I'm interested in growing into the open-source ecosystem through:
+
+* Open-source contributions
+* Developer communities
+* Collaboration
+* Hackathons
+* Learning from other developers
+* Building useful projects
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tejamurthycng-arch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejamurthy-m-177829384)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Tejamurthy67311)
+> Links will be added as my developer presence grows.
+
+* 💻 GitHub: https://github.com/tejamurthycng-arch
+* 💼 LinkedIn: https://www.linkedin.com/in/tejamurthy-m-177829384
+* 📧 Email: tejamurthycng@gmail.com
+* 📸 Instagram: 
+* 𝕏 X/Twitter: https://x.com/Tejamurthy67311
 
 ---
 
-<div align="center">
+## ⚡ A Little More About My Journey
 
-⭐ If something in my repositories is useful to you, consider giving it a star.
 
-Made with curiosity, patience & a lot of debugging ☕
+1st Year CSE Student
+        ↓
+Learn Fundamentals
+        ↓
+Build Projects
+        ↓
+Explore React
+        ↓
+Build Bigger Applications
+        ↓
+Learn Full Stack
+        ↓
+Explore AI + Automation
+        ↓
+Hackathons + Open Source
+        ↓
+Software Engineer
 
-</div>
+I'm still at the beginning — but I'm building consistently.
+
+---
+
+## ⭐ Final Note
+
+If you find something interesting in my repositories, feel free to explore, learn from it, or give it a ⭐.
+
+### `Build. Break. Learn. Repeat.`
+
+**Made with curiosity, code & a lot of debugging. ☕**
+
+---
+
+<!--
+README MAINTENANCE CHECKLIST
+
+Before publishing:
+
+1. Replace YOUR_USERNAME
+2. Add GitHub project links
+3. Add live demo links
+4. Add LinkedIn
+5. Add portfolio when available
+6. Add email
+7. Add actual hackathon achievements
+8. Add screenshots/GIFs for major projects
+9. Keep the README updated as your skills evolve
+10. Remove anything that is no longer accurate
+-->
+
+```
+
+This version positions you as **a student developer who is actively building and progressing**, rather than pretending you're already an experienced engineer.
+```
