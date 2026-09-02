@@ -70,11 +70,11 @@ A collection of frontend projects built to strengthen my fundamentals in **HTML 
 
 <p>
   <a href="https://github.com/tejamurthycng-arch/HTML-CSS-PROJECTS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejamurthycng-arch&repo=HTML-CSS-PROJECTS&theme=nord&border_color=a78bfa" alt="HTML CSS Projects">
+    <p>HTML-CSS PROJECT</p>
   </a>
 </p>
 
-**[🌐 Live Demo](https://github.com/tejamurthycng-arch/HTML-CSS-PROJECTS)** · **[💻 Code](https://github.com/tejamurthycng-arch/HTML-CSS-PROJECTS)**
+**[💻 Code](https://github.com/tejamurthycng-arch/HTML-CSS-PROJECTS)**
 
 ---
 
@@ -90,11 +90,11 @@ A website project created for **OSCode**, focused on building a clean and engagi
 
 <p>
   <a href="https://github.com/tejamurthycng-arch/OSCode_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejamurthycng-arch&repo=OSCode_Website&theme=nord&border_color=a78bfa" alt="OSCode Website">
+     <p>OSCode Website</p>
   </a>
 </p>
 
-**[🌐 Live Demo](https://github.com/tejamurthycng-arch/OSCode_Website)** · **[💻 Code](https://github.com/tejamurthycng-arch/OSCode_Website)**
+**[💻 Code](https://github.com/tejamurthycng-arch/OSCode_Website)**
 
 ---
 
@@ -124,61 +124,9 @@ A website project created for **OSCode**, focused on building a clean and engagi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/tejamurthycng-arch">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejamurthycng-arch&show_icons=true&theme=nord&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=2e3440" alt="GitHub Stats">
-</a>
-
-<a href="https://github.com/tejamurthycng-arch">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejamurthycng-arch&layout=compact&theme=nord&border_color=a78bfa&title_color=a78bfa&text_color=ffffff&bg_color=2e3440" alt="Top Languages">
-</a>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/tejamurthycng-arch">
-  <img src="https://streak-stats.demolab.com?user=tejamurthycng-arch&theme=nord&hide_border=false&border=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub contribution streak">
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/tejamurthycng-arch">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejamurthycng-arch&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies">
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/tejamurthycng-arch">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejamurthycng-arch&bg_color=2e3440&color=ffffff&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph">
-</a>
-
-</div>
-
----
-
 ## 🗺️ Developer Journey
 
-```text
+
 C + Python
      ↓
 HTML + CSS
@@ -198,7 +146,7 @@ Full-Stack Development
 AI + Automation
      ↓
 Production-Ready Engineering
-```
+
 
 ---
 
@@ -262,7 +210,7 @@ Production-Ready Engineering
 
 ## ⚡ Development Philosophy
 
-```text
+
 Don't just learn technology.
           ↓
 Build with it.
@@ -274,7 +222,7 @@ Understand why.
 Improve it.
           ↓
 Build again.
-```
+
 
 ### `Building today. Learning every day. Engineering for tomorrow.`
 
