@@ -124,32 +124,6 @@ A website project created for **OSCode**, focused on building a clean and engagi
 
 ---
 
-## 🗺️ Developer Journey
-
-
-C + Python
-     ↓
-HTML + CSS
-     ↓
-JavaScript
-     ↓
-Tailwind CSS
-     ↓
-React
-     ↓
-Backend Development
-     ↓
-Databases
-     ↓
-Full-Stack Development
-     ↓
-AI + Automation
-     ↓
-Production-Ready Engineering
-
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced JavaScript
@@ -207,22 +181,6 @@ Production-Ready Engineering
 </div>
 
 ---
-
-## ⚡ Development Philosophy
-
-
-Don't just learn technology.
-          ↓
-Build with it.
-          ↓
-Break it.
-          ↓
-Understand why.
-          ↓
-Improve it.
-          ↓
-Build again.
-
 
 ### `Building today. Learning every day. Engineering for tomorrow.`
 
