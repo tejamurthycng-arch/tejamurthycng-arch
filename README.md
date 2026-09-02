@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="50%">
 
 ### 🎓 Student Developer
 
@@ -37,7 +37,7 @@ I'm a Computer Science Engineering student currently entering my **3rd semester*
 
 </td>
 
-<td width="60%">
+<td width="50%">
 
 ### 🚀 Current Focus
 
